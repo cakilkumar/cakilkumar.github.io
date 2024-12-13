@@ -1,60 +1,62 @@
 # Akilkumar Reddy
-Devops and ETL specialist 
+Devops and Data Migration specialist 
 | [akilkumar003@gmail.com](mailto:akilkumar003@gmail.com])
 | [+91 8179684659](tel:+918179684659)
 
 ## About me
-Data-driven professional with a passion for uncovering insights from data to solve real-world business problems. Skilled in Python, SQL, and Tableau, with a strong background in statistical analysis. In my free time, I enjoy hiking and exploring new technology.
+Experienced Senior Software Engineer specializing in DevOps tools and ETL solutions. Skilled in streamlining development processes, automating deployments, and optimizing ETL workflows. Proficient in implementing best practices for continuous integration and delivery, as well as designing, building, and maintaining ETL pipelines. Adept at collaborating with cross- functional teams to achieve project milestones and deliver high-quality software solutions.
 
 ## Work Experience
 
-### Data Analyst, ABC Tech Solutions
-*January 2023 - Present*
+### Senior Software Engineer, IDEMIA
+*April 2023 - September 2024*
 
-- Utilize data analysis to optimize business operations and increase efficiency
-- Collaborate with cross-functional teams to develop predictive models
-- Lead data visualization projects to present findings to stakeholders
+Chile ePP & eID: Data Migration 
+- Requirement Analysis & Solution Design: Addressed complex challenges related to requirement gathering and solution design to ensure streamlined project execution.
+- Automation Expertise: Designed and implemented automated migration processes to enhance efficiency and minimize downtime.
+- Cross-Functional Team Collaboration: Coordinated and collaborated with international teams, ensuring effective communication and goal alignment across multiple time zones and cultural differences.
+- Data Migration Success: Led the successful migration of 140 million records, including data cleansing activities, ensuring data accuracy and integrity.
 
-### Junior Data Analyst, XYZ Corp
-*June 2021 - December 2022*
 
-- Assisted in cleaning and analyzing large datasets for business insights
-- Supported the development of dashboards for real-time business tracking
-- Provided actionable recommendations to improve marketing strategies
+### System Integration Engineer, IDEMIA
+*October 2019 - April 2023*
+
+UIDAI Aadhar: Java Application Performance Testing and Tuning
+Conducted in-depth performance testing and analysis for Java-based applications.
+Optimized application performance by identifying bottlenecks and implementing targeted tuning solutions.
+
+Phillipines National ID: ELK Stack Implementation & Deployment Automation
+Designed, developed, and implemented ELK (Elasticsearch, Logstash, Kibana) stack solutions to monitor business logs.
+Integrated multiple applications as part of a key product delivery effort.
+Automated deployment processes using Ansible scripts, reducing deployment time and improving consistency.
+
+Nepal ID: ELK Stack & Monitoring Implementation
+Successfully implemented ELK Stack solutions to monitor both business and system logs.
+Managed application deployment to ensure system reliability and uptime.
+
+Nepal ePP: Data Migration & Devops activities
+Managed Kubernetes (K8S) clusters, ensuring their availability and reliability for application deployments.
+Designed, developed, and executed a Migration Tool overseeing end-to-end lifecycle management.
+Successfully migrated approximately 7 million records from a flat data model source system to a person-centric data model destination system.
+Maintained data integrity, accuracy, and consistency during the migration while minimizing downtime.
 
 ## Education
 
-### Bachelor of Science in Data Science  
-*University of Nairobi*  
-*2017 - 2021*
+### Bachelor of Engineering in Electronics and Communication  
+*Sai Vidya Institute of Technology*  
+*2015 - 2019*
 
 ## Skills
 
-- Data Analysis: Python, SQL, R
-- Visualization Tools: Tableau, PowerBI
-- Machine Learning: Scikit-learn, TensorFlow
-- Statistical Analysis: STATA, SPSS
+Programming & Tools: Python, Ansible, Shell Scripting, Jenkins, Oracle SQL, Apache Nifi, Grafana, Prometheus, PLSQL
+Cloud & Containerization: Openstack, Kubernetes (K8s), Docker
+Data Migration: Data cleansing, Data integrity validation, Requirement Analysis
+DevOps Practices: Deployment automation, CI/CD pipelines, Ansible scripting
 
-## Certifications
-
-- Google Data Analytics Professional Certificate - 2022
-- Microsoft Certified: Azure Data Scientist Associate - 2021
-
-## Projects
-
-### Sales Forecasting Model
-Developed a sales forecasting model using machine learning algorithms to predict future sales trends based on historical data.
-
-### Customer Segmentation Analysis
-Conducted customer segmentation analysis using clustering techniques to enhance targeted marketing campaigns.
 
 ## Languages
 
 - English: Fluent
-- Swahili: Native
-
-## Interests
-
-- Hiking
-- Technology
-- Photography
+- Telugu: Native
+- Kannada: Fluent
+- Hindi: Fluent
