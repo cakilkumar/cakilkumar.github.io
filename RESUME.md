@@ -11,7 +11,7 @@ Experienced Senior Software Engineer specializing in DevOps tools and ETL soluti
 ### Senior Software Engineer, IDEMIA
 *April 2023 - September 2024*
 
-Chile ePP & eID: Data Migration 
+**Chile ePP & eID: Data Migration** 
 - Requirement Analysis & Solution Design: Addressed complex challenges related to requirement gathering and solution design to ensure streamlined project execution.
 - Automation Expertise: Designed and implemented automated migration processes to enhance efficiency and minimize downtime.
 - Cross-Functional Team Collaboration: Coordinated and collaborated with international teams, ensuring effective communication and goal alignment across multiple time zones and cultural differences.
@@ -21,20 +21,20 @@ Chile ePP & eID: Data Migration
 ### System Integration Engineer, IDEMIA
 *October 2019 - April 2023*
 
-UIDAI Aadhar: Java Application Performance Testing and Tuning
+**UIDAI Aadhar: Java Application Performance Testing and Tuning**
 Conducted in-depth performance testing and analysis for Java-based applications.
 Optimized application performance by identifying bottlenecks and implementing targeted tuning solutions.
 
-Phillipines National ID: ELK Stack Implementation & Deployment Automation
+**Phillipines National ID: ELK Stack Implementation & Deployment Automation**
 Designed, developed, and implemented ELK (Elasticsearch, Logstash, Kibana) stack solutions to monitor business logs.
 Integrated multiple applications as part of a key product delivery effort.
 Automated deployment processes using Ansible scripts, reducing deployment time and improving consistency.
 
-Nepal ID: ELK Stack & Monitoring Implementation
+**Nepal ID: ELK Stack & Monitoring Implementation**
 Successfully implemented ELK Stack solutions to monitor both business and system logs.
 Managed application deployment to ensure system reliability and uptime.
 
-Nepal ePP: Data Migration & Devops activities
+**Nepal ePP: Data Migration & Devops activities**
 Managed Kubernetes (K8S) clusters, ensuring their availability and reliability for application deployments.
 Designed, developed, and executed a Migration Tool overseeing end-to-end lifecycle management.
 Successfully migrated approximately 7 million records from a flat data model source system to a person-centric data model destination system.
