@@ -11,7 +11,7 @@ Experienced Senior Software Engineer specializing in DevOps tools and ETL soluti
 ### Senior Software Engineer, IDEMIA
 *April 2023 - September 2024*
 
-####Chile ePP & eID: Data Migration 
+Chile ePP & eID: Data Migration 
 - Requirement Analysis & Solution Design: Addressed complex challenges related to requirement gathering and solution design to ensure streamlined project execution.
 - Automation Expertise: Designed and implemented automated migration processes to enhance efficiency and minimize downtime.
 - Cross-Functional Team Collaboration: Coordinated and collaborated with international teams, ensuring effective communication and goal alignment across multiple time zones and cultural differences.
