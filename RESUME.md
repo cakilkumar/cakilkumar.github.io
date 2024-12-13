@@ -2,6 +2,7 @@
 Devops and Data Migration specialist 
 | [akilkumar003@gmail.com](mailto:akilkumar003@gmail.com])
 | [+91 8179684659](tel:+918179684659)
+| www.linkedin.com/in/akilkumar-reddy-c
 
 ## About me
 Experienced Senior Software Engineer specializing in DevOps tools and ETL solutions. Skilled in streamlining development processes, automating deployments, and optimizing ETL workflows. Proficient in implementing best practices for continuous integration and delivery, as well as designing, building, and maintaining ETL pipelines. Adept at collaborating with cross- functional teams to achieve project milestones and deliver high-quality software solutions.
