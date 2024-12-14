@@ -32,12 +32,14 @@ Experienced Senior Software Engineer specialized in DevOps tools and Data Migrat
 
 - Designed, developed, and implemented ELK (Elasticsearch, Logstash, Kibana) stack solutions to monitor business logs.
 - Integrated multiple applications as part of a key product delivery effort.
+- Managed application deployments in Openstack environment
 - Automated deployment processes using Ansible scripts, reducing deployment time and improving consistency.
+
 
 **Nepal ID: ELK Stack & Devops activities**
 
-- Successfully implemented ELK Stack solution to monitor both business and system logs.
-- Managed application deployment to ensure system reliability and uptime.
+- Successfully implemented ELK Stack solution to generate Business Reports and monitor system logs.
+- Managed application deployments in Openstack environment and Production.
 
 **Nepal ePP: Data Migration & Devops activities**
 
@@ -51,7 +53,7 @@ Experienced Senior Software Engineer specialized in DevOps tools and Data Migrat
 Programming & Tools: Python, Ansible, Shell Scripting, Jenkins, Oracle SQL, Apache Nifi, Grafana, Prometheus, PLSQL, Terraform
 Cloud & Containerization: Openstack, Kubernetes (K8s), Docker
 Data Migration: Data cleansing, Data integrity validation, Requirement Analysis
-DevOps Practices: Handling Deployments, CI/CD pipelines
+DevOps Practices: Handling Deployments and Application Integration, CI/CD pipelines
 
 
 ## Education
