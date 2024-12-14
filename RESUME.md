@@ -50,10 +50,10 @@ Experienced Senior Software Engineer specialized in DevOps tools and Data Migrat
 
 ## Technical Skills
 
-Programming & Tools: Python, Ansible, Shell Scripting, Jenkins, Oracle SQL, Apache Nifi, Grafana, Prometheus, PLSQL, Terraform
-Cloud & Containerization: Openstack, Kubernetes (K8s), Docker
-Data Migration: Data cleansing, Data integrity validation, Requirement Analysis
-DevOps Practices: Handling Deployments and Application Integration, CI/CD pipelines
+- Programming & Tools: Python, Ansible, Shell Scripting, Jenkins, Oracle SQL, Apache Nifi, Grafana, Prometheus, PLSQL, Terraform
+- Cloud & Containerization: Openstack, Kubernetes (K8s), Docker
+- Data Migration: Data cleansing, Data integrity validation, Requirement Analysis
+- DevOps Practices: Handling Deployments and Application Integration, CI/CD pipelines
 
 
 ## Education
