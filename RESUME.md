@@ -5,7 +5,7 @@ Devops and Data Migration specialist
 | [LinkedIn](https://www.linkedin.com/in/akilkumar-reddy-c/)
 
 ## Professional summary
-Experienced Senior Software Engineer specialized in DevOps tools and Data Migration solutions. Skilled in automating deployments, and optimizing ETL workflows. Proficient in designing, building, and maintaining ETL pipelines. Adept at collaborating with cross- functional teams to achieve project milestones and deliver high-quality software solutions.
+Experienced Senior Software Engineer specialized in DevOps tools and Data Migration solutions. Skilled in automating deployments and Application Integration. Proficient in designing, building, and maintaining ETL pipelines. Adept at collaborating with cross- functional teams to achieve project milestones and deliver high-quality software solutions.
 
 ## Work Experience
 
