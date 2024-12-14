@@ -2,7 +2,7 @@
 Devops and Data Migration specialist 
 | [akilkumar003@gmail.com](mailto:akilkumar003@gmail.com])
 | [+91 8179684659](tel:+918179684659)
-| www.linkedin.com/in/akilkumar-reddy-c
+| [LinkedIn](www.linkedin.com/in/akilkumar-reddy-c)
 
 ## Professional summary
 Experienced Senior Software Engineer specialized in DevOps tools and Data Migration solutions. Skilled in automating deployments, and optimizing ETL workflows. Proficient in designing, building, and maintaining ETL pipelines. Adept at collaborating with cross- functional teams to achieve project milestones and deliver high-quality software solutions.
@@ -28,7 +28,7 @@ Experienced Senior Software Engineer specialized in DevOps tools and Data Migrat
 
 - Conducted in-depth performance testing and analysis for Java-based applications.
 
-**Phillipines National ID: ELK Stack Implementation & Integration activities**
+**Phillipines National ID: ELK Stack Implementation & Application Integration**
 
 - Designed, developed, and implemented ELK (Elasticsearch, Logstash, Kibana) stack solutions to monitor business logs.
 - Integrated multiple applications as part of a key product delivery effort.
@@ -46,7 +46,7 @@ Experienced Senior Software Engineer specialized in DevOps tools and Data Migrat
 - Successfully migrated approximately 7 million records from a flat data model source system to a person-centric data model destination system.
 - Maintained data integrity, accuracy, and consistency during the migration while minimizing downtime.
 
-## Skills
+## Technical Skills
 
 Programming & Tools: Python, Ansible, Shell Scripting, Jenkins, Oracle SQL, Apache Nifi, Grafana, Prometheus, PLSQL
 Cloud & Containerization: Openstack, Kubernetes (K8s), Docker
