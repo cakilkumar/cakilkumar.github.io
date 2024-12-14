@@ -4,7 +4,7 @@ Devops and Data Migration specialist
 | [+91 8179684659](tel:+918179684659)
 | www.linkedin.com/in/akilkumar-reddy-c
 
-## About
+## Professional summary
 Experienced Senior Software Engineer specialized in DevOps tools and Data Migration solutions. Skilled in automating deployments, and optimizing ETL workflows. Proficient in designing, building, and maintaining ETL pipelines. Adept at collaborating with cross- functional teams to achieve project milestones and deliver high-quality software solutions.
 
 ## Work Experience
@@ -12,12 +12,13 @@ Experienced Senior Software Engineer specialized in DevOps tools and Data Migrat
 ### Senior Software Engineer, IDEMIA
 *April 2023 - September 2024*
 
-**Chile ePP & eID: Data Migration** 
+**Chile ePP & eID: Data Migration and Devops activities** 
 
 - Addressed complex challenges related to requirement gathering and solution design to ensure streamlined project execution.
 - Designed and implemented automated migration processes to enhance efficiency and minimize downtime.
 - Coordinated and collaborated with international teams, ensuring effective communication and goal alignment across multiple time zones and cultural differences.
 - Led the successful migration of 140 million records, including data cleansing activities, ensuring data accuracy and integrity.
+- Provided support for K8s cluster deployment and application deployments
 
 
 ### System Integration Engineer, IDEMIA
@@ -27,7 +28,7 @@ Experienced Senior Software Engineer specialized in DevOps tools and Data Migrat
 
 - Conducted in-depth performance testing and analysis for Java-based applications.
 
-**Phillipines National ID: ELK Stack Implementation & Deployment Automation**
+**Phillipines National ID: ELK Stack Implementation & Integration activities**
 
 - Designed, developed, and implemented ELK (Elasticsearch, Logstash, Kibana) stack solutions to monitor business logs.
 - Integrated multiple applications as part of a key product delivery effort.
