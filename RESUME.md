@@ -10,15 +10,15 @@ Experienced Senior Software Engineer specialized in DevOps tools and Data Migrat
 ## Work Experience
 
 ### Senior Software Engineer, IDEMIA
-*April 2023 - September 2024*
+*April 2023 - Present*
 
-**Chile ePP & eID: Data Migration and Devops activities** 
+**Chile ePP & eID: Data Migration** 
 
 - Addressed complex challenges related to requirement gathering and solution design to ensure streamlined project execution.
 - Designed and implemented automated migration processes to enhance efficiency and minimize downtime.
 - Coordinated and collaborated with international teams, ensuring effective communication and goal alignment across multiple time zones and cultural differences.
 - Led the successful migration of 140 million records, including data cleansing activities, ensuring data accuracy and integrity.
-- Provided support for K8s cluster deployment and application deployments
+
 
 
 ### System Integration Engineer, IDEMIA
